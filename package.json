@@ -1,0 +1,16 @@
+{
+  "name": "destiny-query",
+  "version": "0.1.0",
+  "description": "react-query implementation of the Destiny 2 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bungie",
+    "Destiny",
+    "react-query"
+  ],
+  "author": "hawkstein",
+  "license": "ISC"
+}
